@@ -17,3 +17,4 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 
 
+Link to view gist: https://gist.github.com/joshuawongg/efb37a9286839c249741100157e56a4c 
